@@ -35,7 +35,7 @@ export default function Home() {
 
           <Button className="bg-transparent rounded-full border border-lightSky/50 text-lightSky hover:bg-hoverColor hover:text-black hoverEffect">
             <Link
-              href="/resume1.pdf"
+              href="/1234.pdf"
               target="_blank"
               rel="noopener noreferrer"
               download
