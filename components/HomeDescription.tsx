@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 const HomeDescription = () => {
   const [hasLoaded, setHasLoaded] = useState(false);
   const description =
-    " A pixel-perfect Web Designer blending creativity with code. I craft sleek, user-first interfaces using HTML/CSS/JS, and breathe life into them with tools like Figma + React.js. Obsessed with turning complex ideas into intuitive, responsive magic. Let’s design the future, one click at a time!";
+    "Pixel-perfect Web Designer: Code + creativity meet user-first interfaces. Transforming complexity into responsive magic. Let’s build the future."";
   const { displayedText, isComplete } = useTypewriter(description, 30);
 
   useEffect(() => {
