@@ -1,0 +1,12 @@
+{
+  "name": "John Doe Portfolio",
+  "short_name": "John Doe",
+  "description": "Portfolio of John Doe, a skilled developer specializing in web development and UI/UX design.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "scope": "/",
+  "orientation": "portrait",
+  "lang": "en-US"
+}
